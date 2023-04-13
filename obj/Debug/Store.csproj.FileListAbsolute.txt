@@ -1,0 +1,8 @@
+D:\C#\Junior\Store\Store\bin\Debug\Store.exe.config
+D:\C#\Junior\Store\Store\bin\Debug\Store.exe
+D:\C#\Junior\Store\Store\bin\Debug\Store.pdb
+D:\C#\Junior\Store\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+D:\C#\Junior\Store\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+D:\C#\Junior\Store\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+D:\C#\Junior\Store\Store\obj\Debug\Store.exe
+D:\C#\Junior\Store\Store\obj\Debug\Store.pdb
