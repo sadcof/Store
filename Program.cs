@@ -10,18 +10,18 @@ namespace Store
     {
         static void Main(string[] args)
         {
-            int ownGold;
+            int gold;
             int crystalsPiece;
-            int crystalscost = 15;
+            int crystalsCost = 15;
 
-            Console.WriteLine($"Добро пожаловать в магазин кристаллов! Один кристалл стоит {crystalscost} голды.");
+            Console.WriteLine($"Добро пожаловать в магазин кристаллов! Один кристалл стоит {crystalsCost} голды.");
             Console.Write("Ведите ваше количество голды: ");
-            ownGold = Convert.ToInt32(Console.ReadLine());
+            gold = Convert.ToInt32(Console.ReadLine());
             Console.Write("Введите количество кристаллов, которое хотите купить: ");
             crystalsPiece = Convert.ToInt32(Console.ReadLine());
 
-            ownGold -= crystalsPiece * crystalscost;
-            Console.WriteLine($"У вас осталось голды: {ownGold}; вы купили кристаллов: {crystalsPiece} шт");
+            gold -= crystalsPiece * crystalsCost;
+            Console.WriteLine($"У вас осталось голды: {gold}; вы купили кристаллов: {crystalsPiece} шт");
 
             Console.ReadKey();
         }
